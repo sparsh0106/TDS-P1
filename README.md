@@ -47,3 +47,9 @@ Data collection and exploratory data analysis project for **Tools in Data Scienc
 ## 📄 License
 
 Licensed under the [GPL-3.0 License](LICENSE).
+
+---
+
+## 👤 Author
+
+**Sparsh Agarwal** — [GitHub](https://github.com/sparsh0106) · [LinkedIn](https://www.linkedin.com/in/sparsh-agarwal-4b443b304/)
